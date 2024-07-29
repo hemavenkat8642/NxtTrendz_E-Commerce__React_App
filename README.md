@@ -1,14 +1,17 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+In this assignment, I built a **Nxt Trendz - Cart Features** by applying the concepts I have learned till now.
 
-### Refer to the video below:
+Project live link: [https://hematrendz.ccbp.tech](https://hematrendz.ccbp.tech/)
 
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+<details>
+<summary>Click to view credentials</summary>
+
+- Username-1: `rahul` (prime user)
+- Password-1: `rahul@2021`
+
+- Username-2: `raja` (non-prime user)
+- Password-2: `raja@2021`
+</details>
+
 
 ### Design Files
 
